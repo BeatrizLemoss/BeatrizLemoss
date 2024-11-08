@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Fada Brilhante](https://media.giphy.com/media/Yf2o74owIiIKC/giphy.gif)
+![Brilho Mágico](https://media.giphy.com/media/xT0GqpSO20vJz9g91W/giphy.gif)
