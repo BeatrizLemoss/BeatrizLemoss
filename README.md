@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![Brilho Mágico](https://media.giphy.com/media/3ohzdFq7g0ZVkzNSaM/giphy.gif)
+
 **BeatrizLemoss/BeatrizLemoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
